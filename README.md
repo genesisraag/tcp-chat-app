@@ -46,10 +46,10 @@ This example shows three clients chatting:
 - Eve joins the conversation
 - Bob disconnects
 
-![Chat Demo](screenshots/chat-demo.png)
+![Chat Demo](screenshots/chat-demo.png) <img src="screenshots/chat-demo.png" alt="Chat Demo" width="45%" style="display:inline-block; margin-right:10px;">
 
 
-![Chat Demo](screenshots/chat-demo2.png)
+![Chat Demo](screenshots/chat-demo2.png) <img src="screenshots/chat-demo2.png" alt="Chat Demo" width="45%" style="display:inline-block;">
 
 
 ## 📚 Tech Stack
