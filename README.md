@@ -46,8 +46,8 @@ This example shows three clients chatting:
 - Eve joins the conversation
 - Bob disconnects
 
-![Chat Demo](screenshots\chat-demo.png)
-![Chat Demo](screenshots\chat-demo2.png)
+![Chat Demo](screenshots/chat-demo.png)
+![Chat Demo](screenshots/chat-demo2.png)
 
 
 ## 📚 Tech Stack
@@ -64,3 +64,10 @@ This example shows three clients chatting:
 - Multi-threaded server architecture
 - Client-server communication protocols
 - Handling concurrent connections and message broadcasting
+
+## 💡 Future Improvements
+
+- GUI interface with Tkinter
+- Message history logging
+- Encryption support
+- WebSocket version with Flask or FastAPI
