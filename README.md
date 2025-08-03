@@ -37,17 +37,6 @@ You'll be prompted to enter a nickname for each client.
 
 ---
 
-## 🌐 Run Across Devices (LAN)
-
-To test on multiple devices:
-
-1. On the server machine, run `ipconfig` (Windows) or `ifconfig` (Mac/Linux) to get your local IP
-2. Replace `HOST = '127.0.0.1'` with your local IP in both `server.py` and `client.py`
-3. Start the server
-4. Connect from other devices on the same Wi-Fi network
-
----
-
 ## 📚 Tech Stack
 
 - **Python 3**
