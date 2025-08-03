@@ -47,6 +47,8 @@ This example shows three clients chatting:
 - Bob disconnects
 
 ![Chat Demo](screenshots/chat-demo.png)
+
+
 ![Chat Demo](screenshots/chat-demo2.png)
 
 
