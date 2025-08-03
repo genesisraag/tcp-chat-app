@@ -37,6 +37,19 @@ You'll be prompted to enter a nickname for each client.
 
 ---
 
+## 🎥 Demo
+
+This example shows three clients chatting:
+
+- Alice joins first
+- Bob says hello
+- Eve joins the conversation
+- Bob disconnects
+
+![Chat Demo](screenshots\chat-demo.png)
+![Chat Demo](screenshots\chat-demo2.png)
+
+
 ## 📚 Tech Stack
 
 - **Python 3**
