@@ -19,7 +19,7 @@ This project demonstrates core networking concepts, such as TCP/IP communication
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/yourusername/tcp-chat-app.git
 cd tcp-chat-app
 
